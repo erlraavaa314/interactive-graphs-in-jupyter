@@ -1,7 +1,8 @@
 January 28:
 Created this repository for easy access for anyone who is interested.
-Upploaded the old file from before Christmas on how to select nodes in a graph by clicking near them. This is the widgetsandpyplotlib(1).ipynb
- file
+Upploaded the old file from before Christmas on how to select nodes in a graph by clicking near them. This is 
+the file called widgetsandpyplotlib(1).ipynb
+
 Current goal(s):
     -Create a jupyter notebook where a collection of nodes can be selected by a rectangle.
     -Create a jupyter notebook where a collection of nodes can be selected by a lasso.
