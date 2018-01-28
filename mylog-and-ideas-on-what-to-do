@@ -1,0 +1,23 @@
+January 28:
+Created this repository for easy access for anyone who is interested.
+Upploaded the old file from before Christmas on how to select nodes in a graph by clicking near them.
+Current goal(s):
+    -Create a jupyter notebook where a collection of nodes can be selected by a rectangle.
+    -Create a jupyter notebook where a collection of nodes can be selected by a lasso.
+    
+Achieved goal(s):
+    -Created a jupyter notebook where nodes can be selected individually by mouseclicks.
+
+Promising resources(?):
+
+Rectangle selection:
+https://matplotlib.org/examples/widgets/rectangle_selector.html
+
+
+Lasso selection:
+https://matplotlib.org/examples/event_handling/lasso_demo.html
+
+
+More information on the visualization used by networkX:
+https://networkx.github.io/documentation/stable/_modules/networkx/drawing/nx_pylab.html#draw
+
